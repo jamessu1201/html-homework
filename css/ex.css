@@ -1,0 +1,48 @@
+#the_top {
+    display: flex;
+    height: 56px;
+}
+
+.flex {
+    display: flex;
+    height: 950px;
+}
+
+.flex2 {
+    display: flex;
+    height: auto;
+}
+
+#left_side {
+    height: 934px;
+    width: 273px;
+    border: 8px #e0e0e0 solid;
+}
+
+#right_side {
+    height: 950px;
+    width: 1040px;
+}
+
+#one {
+    height: 306px;
+    width: 839px;
+}
+
+#two {
+    height: 160px;
+    width: 829px;
+    border: 5px blue solid;
+    margin-top: 30px;
+}
+
+#three {
+    height: 300px;
+    width: 829px;
+    border: 5px green solid;
+    margin-top: 30px;
+}
+
+#the_bottom {
+    height: 194px;
+}
